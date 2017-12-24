@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <TestData>
+    <Url>www.myurl.com</Url>
+    <UserName>myUserName</UserName>
+    <UserPass>myPass123</UserPass>
+    <SearchBy>Option1</SearchBy>
+    <OtherURL>www.otherurl.com</OtherURL>
+    <Text>Next</Text>
+    <TimeSec>10000</TimeSec>
+    <Search>Search</Search>
+    <Value>BestFramework</Value>
+  </TestData>
